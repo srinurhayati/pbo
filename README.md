@@ -2,6 +2,10 @@
 
 Project ini digunakan untuk praktek mata kuliah PBO.
 
+Nama  : Sri Nurhayati
+
+NPM   : 2015804339
+
 ## Instalasi
 
 - import file `db.sql` ke mariadb,
